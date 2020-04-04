@@ -1,5 +1,5 @@
 # jsonServer
-Create a 🍳🃏 FAKE ❤️🎌 REST API With JSON Server
+Create a 🍳🃏 FAKE ❤️🎌 REST API With [JSON Server](https://github.com/typicode/json-server)
 
 ## Build server
 
